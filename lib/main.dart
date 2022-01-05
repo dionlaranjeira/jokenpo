@@ -4,7 +4,7 @@ import 'package:jokenpo/jogo.dart';
 void main(){
   runApp(MaterialApp(
     home: Jogo(),
-    debugShowCheckedModeBanner: true,
+    debugShowCheckedModeBanner: false,
   ));
 }
 
